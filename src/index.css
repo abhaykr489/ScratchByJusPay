@@ -1,0 +1,45 @@
+/* ./src/index.css */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: "Arial" sans-serif;
+}
+
+input {
+  border-radius: 10px;
+} */
+
+
+
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Scratch website font family */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Apply Scratch website input styles */
+input {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding: 8px;
+  font-size: 14px;
+}
+
+/* Adjustments to match Scratch website layout */
+/* You may need to add more specific styles based on your components */
+/* For example, buttons, headers, etc. */
+
+
+
+/* Example Scratch header style */
+.header {
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
